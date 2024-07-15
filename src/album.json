@@ -7,71 +7,71 @@
             "id": 1,
             "name": "See You Again",
             "singer": "Wiz Khalifa ft Charlie Puth",
-            "path": "/songs/See You Again.mp3",
-            "image": "/images/albums/See You Again.png"
+            "path": "./songs/See You Again.mp3",
+            "image": "./images/albums/See You Again.png"
         },
         {
             "id": 2,
             "name": "2022",
             "singer": "Anne-Marie",
-            "path": "/songs/2022.mp3",
-            "image": "/images/albums/2022.png"
+            "path": "./songs/2022.mp3",
+            "image": "./images/albums/2022.png"
         },
         {
             "id": 3,
             "name": "Tie Me Down",
             "singer": "Gryffin ft Elley Duhé",
-            "path": "/songs/Tie Me Down.mp3",
-            "image": "/images/albums/Tie Me Down.png"
+            "path": "./songs/Tie Me Down.mp3",
+            "image": "./images/albums/Tie Me Down.png"
         },
         {
             "id": 4,
             "name": "Sweet but Psycho",
             "singer": "Ava Max",
-            "path": "/songs/Sweet but Psycho.mp3",
-            "image": "/images/albums/Sweet but Psycho.png"
+            "path": "./songs/Sweet but Psycho.mp3",
+            "image": "./images/albums/Sweet but Psycho.png"
         },
         {
             "id": 5,
             "name": "Hero",
             "singer": "Cash Cash ft Christina Perri",
-            "path": "/songs/Hero.mp3",
-            "image": "/images/albums/Hero.png"
+            "path": "./songs/Hero.mp3",
+            "image": "./images/albums/Hero.png"
         },
         {
             "id": 6,
             "name": "abcdefu",
             "singer": "Gayle",
-            "path": "/songs/abcdefu.mp3",
-            "image": "/images/albums/abcdefu.png"
+            "path": "./songs/abcdefu.mp3",
+            "image": "./images/albums/abcdefu.png"
         },
         {
             "id": 7,
             "name": "One Time",
             "singer": "Justin Bieber",
-            "path": "/songs/One Time.mp3",
-            "image": "/images/albums/One Time.png"
+            "path": "./songs/One Time.mp3",
+            "image": "./images/albums/One Time.png"
         },
         {
             "id": 8,
             "name": "A Thousand Years",
             "singer": "Christina Perri",
-            "path": "/songs/A Thousand Years.mp3",
-            "image": "/images/albums/A Thousand Years.png"
+            "path": "./songs/A Thousand Years.mp3",
+            "image": "./images/albums/A Thousand Years.png"
         },
         {
             "id": 9,
             "name": "Rendezvous",
             "singer": "DEAMN",
-            "path": "/songs/Rendezvous.mp3",
-            "image": "/images/albums/Rendezvous.png"
+            "path": "./songs/Rendezvous.mp3",
+            "image": "./images/albums/Rendezvous.png"
         },
         {
             "id": 10,
             "name": "Crush",
             "singer": "Tessa Violet",
-            "path": "/songs/Crush.mp3",
-            "image": "/images/albums/Crush.png"
+            "path": "./songs/Crush.mp3",
+            "image": "./images/albums/Crush.png"
         }
     ]
 }
